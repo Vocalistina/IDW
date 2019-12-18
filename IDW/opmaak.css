@@ -1,0 +1,67 @@
+/* opmaak voor alle normale tekst */
+.Normale-Tekst {
+    width: 100%;
+    text-align: center;
+    color: darkgray;
+}
+
+.link {
+    color: steelblue;
+}
+
+h3 {
+    width: 100%;
+    color: dimgray;
+    font-size: larger;
+    text-align: center;
+    vertical-align: center;
+    background-color: lightgray;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.logo { <!--1268 - 786-->
+    width: 126px;
+    hight: 78px;
+    max-width: 15%;
+    min-width: 5%;
+    padding-left: 0;
+    vertical-align: top;
+    margin-left: 20px;
+    margin-top: 10px;
+    display: inline-block;
+}
+
+.Navigatie-Menu {
+    list-style-type: none;
+    width: 75%;
+    margin-top: 10px;
+    margin-left: 5px;
+    display: inline-block;
+    background: lightgray;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-underline: none;
+    text-decoration: none;
+}
+.Navigatie-Menu li {
+    display: inline-block;
+    padding-left: 5px;
+    margin-left: 20px;
+    text-align: left;
+    text-decoration-color: dimgray;
+    text-underline-style: none;
+}
+
+body {
+    width: 100%;
+    background-color: whitesmoke;
+    font-family: Verdana, monospace;
+}
+a:hover, a:visited, a:link, a:active {
+    text-decoration: none;
+    text-underline: none;
+    color: dimgray;
+}
+
