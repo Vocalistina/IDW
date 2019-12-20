@@ -5,10 +5,6 @@
     color: darkgray;
 }
 
-.link {
-    color: steelblue;
-}
-
 h3 {
     width: 100%;
     color: dimgray;
@@ -22,6 +18,7 @@ h3 {
 }
 
 .logo { <!--1268 - 786-->
+    float: left;
     width: 126px;
     hight: 78px;
     max-width: 15%;
@@ -31,6 +28,11 @@ h3 {
     margin-left: 20px;
     margin-top: 10px;
     display: inline-block;
+}
+
+nav {
+    max-height: border-box;
+    max-width: 100%;
 }
 
 .Navigatie-Menu {
@@ -54,11 +56,16 @@ h3 {
     text-underline-style: none;
 }
 
+.clearfix {
+    overflow: auto;
+    zoom: 1;
+}
 body {
     width: 100%;
     background-color: whitesmoke;
-    font-family: Verdana, monospace;
+    font-family: Verdana, Arial, sans-serif;
 }
+
 a:hover, a:visited, a:link, a:active {
     text-decoration: none;
     text-underline: none;
