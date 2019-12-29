@@ -1,0 +1,39 @@
+table {
+    border-collapse: collapse;
+    border: 1px solid black;
+    font-family: url("https://fonts.googleapis.com/css?family=Roboto&display=swap");
+    font-size: small;
+    text-align: center;
+    margin: 25px;
+    padding: 25px;
+    background-color: #c7ced8;
+    horiz-align: center;
+    table-layout: fixed;
+   }
+
+thead {
+    background: #27426d;
+    color: #c7ced8;
+    line-height: 25px;
+    border: 1px solid black;
+}
+tr,
+td{
+    line-height: 25px;
+    border: 1px solid black;
+    width: 100px;
+}
+
+tbody tr:nth-child(odd) {
+    background: #4f8cef;
+    color: #c7ced8;
+}
+tbody tr:nth-child(even) {
+    background: #6facff;
+    color: #c7ced8;
+}
+tfoot {
+    color: #c7ced8;
+    border: 1px solid black;
+    line-height: 25px;
+}
