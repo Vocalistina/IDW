@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="11e7bcc9-c764-41e8-b60e-7c11483ae35e" name="Default Changelist" comment="" />
+    <list default="true" id="11e7bcc9-c764-41e8-b60e-7c11483ae35e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Tabel/.idea/Tabel.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +31,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
@@ -54,6 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1576700259506</updated>
       <workItem from="1576700261622" duration="7384000" />
+      <workItem from="1577642414270" duration="1315000" />
     </task>
     <servers />
   </component>
@@ -61,6 +66,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1059" y="443" key="FileChooserDialogImpl" timestamp="1577642449844">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1059" y="443" key="FileChooserDialogImpl/-1080.0.1080.1880/0.0.2560.1400@0.0.2560.1400" timestamp="1577642449844" />
     <state x="943" y="419" width="672" height="678" key="search.everywhere.popup" timestamp="1576703119027">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
