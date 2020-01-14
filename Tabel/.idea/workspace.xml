@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d61124e6-e5a9-4f30-87f8-fa51b9b06510" name="Default Changelist" comment="" />
+    <list default="true" id="d61124e6-e5a9-4f30-87f8-fa51b9b06510" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tabel oef1.html" beforeDir="false" afterPath="$PROJECT_DIR$/tabel oef1.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1VfS34PkYP405kfUnHg3iausN0C" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -26,8 +31,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
@@ -63,7 +70,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577642453553</updated>
-      <workItem from="1577642455046" duration="4693000" />
+      <workItem from="1577642455046" duration="5732000" />
+      <workItem from="1578865529574" duration="76000" />
     </task>
     <task id="LOCAL-00001" summary="added table exercise 1 Tables school">
       <created>1577644041868</created>
@@ -72,7 +80,21 @@
       <option name="project" value="LOCAL" />
       <updated>1577644041868</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="tfoot keeps showing up on the top, won't get on the bottem :(&#10;changed width of the cells">
+      <created>1577647271113</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577647271113</updated>
+    </task>
+    <task id="LOCAL-00003" summary="tfoot keeps showing up on the top, won't get on the bottem :(&#10;changed width of the cells">
+      <created>1577648754388</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577648754388</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,20 +102,29 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added table exercise 1 Tables school" />
-    <option name="LAST_COMMIT_MESSAGE" value="added table exercise 1 Tables school" />
+    <MESSAGE value="tfoot keeps showing up on the top, won't get on the bottem :(&#10;changed width of the cells" />
+    <option name="LAST_COMMIT_MESSAGE" value="tfoot keeps showing up on the top, won't get on the bottem :(&#10;changed width of the cells" />
   </component>
   <component name="WindowStateProjectService">
     <state x="872" y="359" key="#Inspections" timestamp="1577644175665">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="872" y="359" key="#Inspections/-1080.0.1080.1880/0.0.2560.1400@0.0.2560.1400" timestamp="1577644175665" />
-    <state x="905" y="295" key="CommitChangelistDialog2" timestamp="1577644040413">
+    <state x="905" y="295" key="CommitChangelistDialog2" timestamp="1577648753435">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="905" y="295" key="CommitChangelistDialog2/-1080.0.1080.1880/0.0.2560.1400@0.0.2560.1400" timestamp="1577644040413" />
-    <state x="872" y="434" key="Vcs.Push.Dialog.v2" timestamp="1577644048585">
+    <state x="905" y="295" key="CommitChangelistDialog2/-1080.0.1080.1880/0.0.2560.1400@0.0.2560.1400" timestamp="1577648753435" />
+    <state x="1059" y="443" key="FileChooserDialogImpl" timestamp="1578865597756">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="872" y="434" key="Vcs.Push.Dialog.v2/-1080.0.1080.1880/0.0.2560.1400@0.0.2560.1400" timestamp="1577644048585" />
+    <state x="1059" y="443" key="FileChooserDialogImpl/-1080.0.1080.1880/0.0.2560.1400@0.0.2560.1400" timestamp="1578865597756" />
+    <state x="872" y="434" key="Vcs.Push.Dialog.v2" timestamp="1577648770929">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="434" key="Vcs.Push.Dialog.v2/-1080.0.1080.1880/0.0.2560.1400@0.0.2560.1400" timestamp="1577648770929" />
+    <state x="936" y="330" key="run.anything.popup" timestamp="1577647338641">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="936" y="330" key="run.anything.popup/-1080.0.1080.1880/0.0.2560.1400@0.0.2560.1400" timestamp="1577647338641" />
   </component>
 </project>

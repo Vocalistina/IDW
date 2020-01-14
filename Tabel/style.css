@@ -17,6 +17,9 @@ thead {
     line-height: 25px;
     border: 1px solid black;
 }
+th{
+    border: 1px solid black;
+}
 tr,
 td{
     line-height: 25px;
@@ -35,5 +38,5 @@ tbody tr:nth-child(even) {
 tfoot {
     color: #c7ced8;
     border: 1px solid black;
-    line-height: 25px;
-}
+    background: #27426d;
+   }
